@@ -6,7 +6,7 @@ My motivation for the project was to allow me to develop my skills with coding a
 
 ## Installation
 
-No installation required.
+N/A
 
 ## Usage
 
